@@ -108,8 +108,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Python</strong>: My current role uses Python as the primary language and I have been working with Python for the last five years. I am familiar with a the most common Python libraries for data wrangling and analysis.
-   <strong>R & Matlab </strong>: R & Matlab have been the primar languages for solving problems in physics numerically.      
-   <strong>PowerBI</strong>
+   <strong>Python</strong>: My current role uses Python as the primary language and I have been working with Python for the last five years. I am familiar with a the most common Python libraries for data wrangling and analysis. <br/><br/>
+   <strong>R & Matlab </strong>: R & Matlab have been the primar languages for solving problems in physics numerically. <br/><br/>     
+   <strong>PowerBI</strong> <br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including programming microcontrollers, projects that include the use of public APIs, and cloud platforms such as Azure/AWS. <br/><br/>
-   
